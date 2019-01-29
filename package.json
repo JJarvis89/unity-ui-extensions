@@ -13,6 +13,7 @@
   "type": "git",
   "url": "git+https://github.com/JJarvis89/unity-ui-extensions.git"
 },
+  "src": "Assets/unity-ui-extensions",
   "bugs": {
   "url": "https://github.com/JJarvis89/unity-ui-extensions/issues"
 },
